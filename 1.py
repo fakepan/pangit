@@ -6,4 +6,5 @@ x=4
 e=5
 r=6
 add a new branch
-master change
+
+master change and new branch
