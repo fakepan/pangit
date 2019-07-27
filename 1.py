@@ -8,3 +8,4 @@ r=6
 add a new branch
 
 master change and new branch
+no ff merge try
