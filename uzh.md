@@ -30,7 +30,7 @@
     - [ ] 个人简历
     - [ ] 动机信 ps 描述研究计划 1-2页 a4
     - [ ] 计划参加的课程暂定列表 20 ets score at least
-    - [ ] 推荐信 许导 [Letter of Reference.doc](../Downloads/Letter of Reference.doc) 
+    - [x] 推荐信 许导 [Letter of Reference.doc](../Downloads/Letter of Reference.doc) 
     - [ ] 目前的成绩单 
     - [x] 本科生学位证 a copy of their undergraduate diploma. 
     - [x] 英语语言证明
