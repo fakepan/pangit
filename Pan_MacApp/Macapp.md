@@ -4,7 +4,7 @@ Macapp
 - Clean my mac:系统清理
 - DaisyDisk :磁盘扫描，发现占用空间大的文件
 - Xtrafinder: finder 扩展 `配置文件`
-- Kera: 解压
+- Keka: 解压
 - Pap.er: 壁纸
 - Tuxera Disk Manager: ntfs文件传输
 - Pycharm: 编程
@@ -24,4 +24,18 @@ Macapp
 - Flume: instagram 客户端
 - Rhino: 建模 `配置文件`
 - Moom: 窗口管理
-
+- Karabiner-Elements: 键盘改键
+- 坚果云: 同步
+- Zotero: 文献神器
+  - zotfile 文件管理
+  - Zotero scholar citations 引用查看
+  - Zotero voyant export 生成词云
+- Sublime text: 写代码
+- easy find: 类似everything
+- Houdahspot: 快速查找
+- DaisyDisk: 文件分析
+- Toothfairy: 蓝牙管理
+- Arcsoft photo+: 图片查看
+- Google 备份与同步
+- Omni 三件套
+- flume: instagram
